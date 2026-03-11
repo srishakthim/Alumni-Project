@@ -74,7 +74,7 @@ if (!isset($_SESSION['user_id']) || $_SESSION['role'] !== 'admin') {
     </a>
 
     <a href="approve_users.php">
-        <i class="bi bi-person-check"></i> Approve Alumni
+        <i class="bi bi-person-check"></i> Nominees
     </a>
 
     <a href="departments.php">
